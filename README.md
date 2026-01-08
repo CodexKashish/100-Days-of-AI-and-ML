@@ -13,6 +13,6 @@ Welcome to my technical expedition! I am a 1st-year B.Tech CSE student (2nd Sem)
 | Day | Topic | Project/Task |
 | :--- | :--- | :--- |
 | 01 | Inputs & Math | [Age to Days Calculator](./Day_01_Age_Calculator.py) |
-
+| 02 | Lists & Loops | [Travel Bucket List Manager](./Day_02_Travel_List.py) |
 ---
 *“Nature is the best engineer; I’m just learning to code like it.”*
