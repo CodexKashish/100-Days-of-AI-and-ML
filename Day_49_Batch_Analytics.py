@@ -1,6 +1,6 @@
 import numpy as np
 
-# Hey! Day 50 is finally here. Let's build a real-world batch analyzer.
+# Hey! Day 49 is finally here. Let's build a real-world batch analyzer.
 
 # Marks for Section A (5 students, 3 subjects: Python, Math, Stats)
 section_a = np.array([
